@@ -12,3 +12,8 @@ Witaj, to szablon pracy dyplomowej częściowo przystosowany do nowych wymagań 
 
 ## Porównanie
 ![Comparison with official word template](https://github.com/orestesgaolin/wut_thesis/raw/master/img/comparison.png "Comparison")
+
+## Wsparcie
+BTC 1P6ofZnewRSWDfFHAKeDeh3Xw8Y5TjCk6y
+DOGE DKjAgwqaM8sJPKGozcJheudVxhGBFQnxZE
+MONERO 42oGFKK3BRHbZxLzVpE4sd4gMkjdxJdZv8ywBbC1PkMNWXuzD3ngcZv7wa9j3Fqqkb1N5rsfb4aLkP1YcNH9mK4pVeD895V
